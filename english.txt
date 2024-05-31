@@ -3,4 +3,6 @@ Can't break down
 Graduate now
 I don't wanna be here
 I don't wanna be here
+<<<<<<< HEAD
 It's a taste test!
+It's a taste!
